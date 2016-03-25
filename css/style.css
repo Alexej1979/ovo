@@ -1,0 +1,86 @@
+  #table1 tbody tr:hover, #table2 tbody tr:hover
+{
+    background-color: #eee;
+}
+.h1_2
+ {
+     margin-top: 30px;
+ }
+
+.ns-type-error
+{
+       background-color: red;
+}
+
+a
+{
+    cursor: pointer;
+}
+
+table thead tr:first-child
+{
+        white-space: nowrap;
+}          
+
+#table2 a i
+{
+    margin: 7px 3px;
+}
+
+.navbar-brand
+{
+    text-transform: uppercase;
+}
+th.dt-center, td.dt-center, .table>thead>tr>th
+{ 
+    text-align: center;
+    vertical-align: middle;
+}
+
+ .table>tbody>tr>th
+ {
+     font-weight: normal;
+ }
+
+ .divAdd
+ {
+     padding-top: 7px;
+ }
+
+ .delete
+ {
+     transition: color 0.5s;
+     -webkit-transition: color 0.5s;
+ }
+ .delete:hover
+ {
+     color:red;
+
+ }
+
+ .update
+ {
+     margin: 0 15px;
+
+ }
+
+ .form-group
+ {
+     text-align: left;
+ }
+
+ .imgTile
+ {
+     max-width: 100%;
+     max-height: 150px;                
+  }
+
+  .textAbout
+  {
+      display: flex;
+      height: 150px;
+  }
+  .textAbout span
+  {
+      margin: auto;
+  }
